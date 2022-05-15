@@ -5,8 +5,8 @@
 
 
 ## 🚀 About Me
-I am a 4'th year student at Akdeniz University, where I'll major in computer science engineering. I currently live in Antalya.
-I've held a number of developing roles, from UI design to mobile application development, but my latest challenge has been developing web applications and improving myself through my contributions as a software developer.
+I am currently majoring in computer science engineering.
+I've held a number of developing roles, from UI design to mobile application development, but my latest challenge has been developing web applications and improving myself through my contributions as a software developer. I also participated in account management, which is a role used to provide customers with service, and explaining code without writing it.
 
 
 ## Other Common Github Profile Sections
@@ -17,8 +17,6 @@ I've held a number of developing roles, from UI design to mobile application dev
 👯‍♀️ I'm looking forward to collaborate with companies.
 
 📫 How to reach me: samintaheri1922000@gmail.com
-
-😄 Pronouns: she/her
 
 
 ## 🛠 Skills
