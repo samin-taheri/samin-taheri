@@ -1,6 +1,6 @@
 
 # Hi, I'm Samin! 👋
-#### an enthusiastic fornt-end developer
+#### an enthusiastic front-end developer
 
 
 
