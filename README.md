@@ -42,5 +42,5 @@ Pyhton
 
 ### Languages and Tools
 
-<img height= "40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1920px-Unofficial_JavaScript_logo_2.svg.png">
-<img height= "40" src="https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png">
+<code><img height= "40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1920px-Unofficial_JavaScript_logo_2.svg.png"></code>
+<code><img height= "40" src="https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png"></code>
