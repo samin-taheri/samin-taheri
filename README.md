@@ -47,6 +47,6 @@ Pyhton
 <code><img height= "40" src="https://i.pinimg.com/originals/07/ca/4a/07ca4afbde70ce0c995b3f63e9c04ceb.png"></code>
 <code><img height= "40" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"></code>
 <code><img height= "40" src="https://pngset.com/images/css3-logo-css-logo-background-symbol-text-first-aid-tabletop-transparent-png-1301426.png"></code>
-<code><img height= "40" src="https://sonhasoftware.com/wp-content/uploads/2021/07/python.png"></code>
+<code><img height= "40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"></code>
 <code><img height= "40" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png"></code>
 
