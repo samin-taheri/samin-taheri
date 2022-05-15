@@ -42,7 +42,7 @@ Pyhton
 
 ### Languages and Tools
 
-<img height= "40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1920px-Unofficial_JavaScript_logo_2.svg.png">
+<code><img height= "40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1920px-Unofficial_JavaScript_logo_2.svg.png"></code>
 <code><img height= "40" src="https://p.kindpng.com/picc/s/765-7652239_react-native-svg-logo-hd-png-download.png"></code>
 <code><img height= "40" src="https://i.pinimg.com/originals/07/ca/4a/07ca4afbde70ce0c995b3f63e9c04ceb.png"></code>
 <code><img height= "40" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"></code>
