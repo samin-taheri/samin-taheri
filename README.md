@@ -5,8 +5,8 @@
 
 
 ## 🚀 About Me
-I am currently majoring in computer science engineering.
-I've held a number of developing roles, from UI design to mobile application development, but my latest challenge has been developing web applications and improving myself through my contributions as a software developer. I also participated in account management, which is a role used to provide customers with service, and explaining code without writing it.
+I am currently majoring in computer science engineering. 
+I've held a number of developing roles, from UI design to mobile application development, but my latest challenge has been developing web applications and improving myself through my contributions as a software developer. I also participated in account management, which is a role that involves providing service to customers and explaining code without writing it
 
 
 ## Other Common Github Profile Sections
