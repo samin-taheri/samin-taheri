@@ -18,6 +18,8 @@ I've held a number of developing roles, from UI design to mobile application dev
 
 📫 How to reach me: samintaheri1922000@gmail.com
 
+👾 Published Project: https://panel.emlakofisimden.com/login
+
 
 ## 🛠 Skills
 Mobile Application Development,
