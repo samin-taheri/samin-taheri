@@ -21,7 +21,7 @@ Email:samintaheri1922000@gmail.com
 Linkedin:https://www.linkedin.com/in/samin-taheri-876009174/
 
 👾 Published Project: https://panel.emlakofisimden.com
-pedigreeall in appstore and googleplay
+Pedigreeall Application Available in Appstore and Google Play
 
 
 ## 🛠 Skills
