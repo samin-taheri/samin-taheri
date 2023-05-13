@@ -17,11 +17,13 @@ I've held a number of developing roles, from UI design, mobile application devel
 👯‍♀️ I'm looking forward to collaborate with companies.
 
 📫 How to reach me: 
+
 Email:samintaheri1922000@gmail.com
 
 Linkedin:https://www.linkedin.com/in/samin-taheri-876009174/
 
 👾 Published Project: 
+
 https://panel.emlakofisimden.com
 
 Pedigreeall Application Available in App Store and Google Play
