@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 I majored in computer science engineering. 
-I've held a number of developing roles, from UI design, mobile application development to account management but my latest challenge has been developing web applications and improving myself through my contributions as a software developer. I made an amount of projects using react and react-native platforms which are accessable in my prfile.
+I've held a number of developing roles, from UI design, mobile application development to account management but my latest challenge has been developing web applications and improving myself through my contributions as a software developer. I created a number of projects using the react and react-native platforms, which are available in my profile.
 
 
 ## Other Common Github Profile Sections
