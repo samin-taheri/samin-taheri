@@ -21,7 +21,8 @@ Email:samintaheri1922000@gmail.com
 
 Linkedin:https://www.linkedin.com/in/samin-taheri-876009174/
 
-👾 Published Project: https://panel.emlakofisimden.com
+👾 Published Project: 
+https://panel.emlakofisimden.com
 
 Pedigreeall Application Available in App Store and Google Play
 
