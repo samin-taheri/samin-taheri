@@ -5,16 +5,12 @@
 
 
 ## 🚀 About Me
-I majored in computer science engineering. 
-I've held a number of developing roles, from UI design, mobile application development to account management but my latest challenge has been developing web applications and improving myself through my contributions as a software developer. I created a number of projects using the react and react-native platforms, which are available in my profile.
-
+I am a front-end developer who has majored in computer science engineering with strong roots in CSS, HTML, JavaScript/TypeScript, and modern design tools and frameworks. I am a React, Next.js, and React Native developer. I have strong interpersonal and team-building abilities. I always create user-friendly and mobile-friendly responsive designs with the importance and growth of the mobile-oriented market in mind. My development skills are diverse, and I can design and develop web pages as well as handle mobile applications. I am currently improving myself through my contributions as a front-end developer.
 
 ## Other 
-👩‍💻 I'm currently working on improving myself at software develpoment.
+🧠 I'm currently improving myself through my contributions as a front-end developer.
 
-🧠 I'm currently learning IOS development.
-
-👯‍♀️ I'm looking forward to collaborate with companies.
+👯‍♀️ I'm looking forward to collaborating with companies.
 
 📫 How to reach me: samintaheri1922000@gmail.com
 
@@ -31,14 +27,15 @@ Web Application Development,
 Front-end Development,
 Software Development,
 React Native,
-Recat JS,
+React JS,
 NextJS,
 User Interface Design,
 Javascript, 
+TypeScript,
 HTML,
 CSS,
 Java, 
-Pyhton
+Python
 
 ### Languages and Tools
 
