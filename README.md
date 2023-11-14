@@ -10,8 +10,6 @@ I am a front-end developer who has majored in computer science engineering with 
 ## Other 
 🧠 I'm currently improving myself through my contributions as a front-end developer.
 
-👯‍♀️ I'm looking forward to collaborating with companies.
-
 📫 How to reach me: samintaheri1922000@gmail.com
 
 👾 Published Project: 
