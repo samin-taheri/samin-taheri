@@ -43,12 +43,6 @@ I am a front-end developer who has majored in computer science engineering with 
 
 <b>My GitHub Stats</b>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samin-taheri" alt="samin-taheri" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samin-taheri&show_icons=true&locale=en&layout=compact" alt="samin-taheri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samin-taheri&show_icons=true&locale=en" alt="samin-taheri" /></p>
