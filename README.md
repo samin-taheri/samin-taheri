@@ -12,13 +12,7 @@ I am a front-end developer who has majored in computer science engineering with 
 
 📫 How to reach me: samintaheri1922000@gmail.com
 
-👾 Published Project: 
-
-https://panel.emlakofisimden.com
-
-Pedigreeall Application Available in App Store and Google Play
-
-### Skills
+### Languages and Tools
 
 
 <p align="left">
@@ -53,16 +47,4 @@ HTML,
 CSS,
 Java, 
 Python
-
-### Languages and Tools
-
-<a><img height= "40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1920px-Unofficial_JavaScript_logo_2.svg.png"></a>
-<a><img height= "40" src="https://logowiki.net/uploads/logo/r/react-1.svg"></a>
-<a><img height= "40" src="https://i.pinimg.com/originals/07/ca/4a/07ca4afbde70ce0c995b3f63e9c04ceb.png"></a>
-<a><img height= "40" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"></a>
-<a><img height= "40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"></a>
-<a><img height= "40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"></a>
-<a><img height= "40" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png"></a>
-<a><img height= "40" src="https://i.pinimg.com/originals/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.png"></a>
-<a><img height= "40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png"></a>
 
