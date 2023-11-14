@@ -43,15 +43,6 @@ I am a front-end developer who has majored in computer science engineering with 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/samin-taheri"><img src="https://github-readme-stats.vercel.app/api?username=samin-taheri&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="samin-taheri's GitHub stats" /></a>
-
-<a href="http://www.github.com/samin-taheri"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samin-taheri&stroke=ffffff&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samin-taheri&label=Profile%20views&color=0e75b6&style=flat" alt="samin-taheri" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samin-taheri" alt="samin-taheri" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
