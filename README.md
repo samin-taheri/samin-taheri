@@ -12,8 +12,9 @@ I am a front-end developer who has majored in computer science engineering with 
 
 📫 How to reach me: samintaheri1922000@gmail.com
 
-### Languages and Tools
 
+
+### Languages and Tools
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -37,9 +38,11 @@ I am a front-end developer who has majored in computer science engineering with 
 </p>
 
 
+
 ### Socials
 
 <p align="left"><a href="https://www.linkedin.com/in/samintaheri/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/samin5601" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@samintaheri2090" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+
 
 
 ### Badges
@@ -49,6 +52,7 @@ I am a front-end developer who has majored in computer science engineering with 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samin-taheri&show_icons=true&locale=en&layout=compact" alt="samin-taheri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samin-taheri&show_icons=true&locale=en" alt="samin-taheri" /></p>
+
 
 ## 🛠 Skills
 Mobile Application Development,
