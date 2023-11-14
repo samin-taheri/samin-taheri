@@ -14,7 +14,7 @@ I am a front-end developer who has majored in computer science engineering with 
 
 
 
-### Languages and Tools
+### 🛠 Languages and Tools
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -51,19 +51,3 @@ I am a front-end developer who has majored in computer science engineering with 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samin-taheri&show_icons=true&locale=en" alt="samin-taheri" /></p>
 
-
-## 🛠 Skills
-Mobile Application Development,
-Web Application Development,
-Front-end Development,
-Software Development,
-React Native,
-React JS,
-NextJS,
-User Interface Design,
-Javascript, 
-TypeScript,
-HTML,
-CSS,
-Java, 
-Python
