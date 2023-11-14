@@ -7,6 +7,10 @@
 ## 🚀 About Me
 I am a front-end developer who has majored in computer science engineering with strong roots in CSS, HTML, JavaScript/TypeScript, and modern design tools and frameworks. I am a React, Next.js, and React Native developer. I have strong interpersonal and team-building abilities. I always create user-friendly and mobile-friendly responsive designs with the importance and growth of the mobile-oriented market in mind. My development skills are diverse, and I can design and develop web pages as well as handle mobile applications. I am currently improving myself through my contributions as a front-end developer.
 
+## Social Media
+
+https://www.linkedin.com/in/samintaheri/
+
 ## Other 
 🧠 I'm currently improving myself through my contributions as a front-end developer.
 
