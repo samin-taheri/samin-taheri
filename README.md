@@ -2,7 +2,6 @@
 # Hi, I'm Samin! 👋
 #### An enthusiastic front-end developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samin-taheri&label=Profile%20views&color=0e75b6&style=flat" alt="samin-taheri" /> </p>
 
 
 ## 🚀 About Me
