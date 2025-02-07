@@ -1,11 +1,11 @@
 
 # Hi, I'm Samin! 👋
-#### An enthusiastic front-end developer
+#### An enthusiastic software developer
 
 
 
 ## 🚀 About Me
-I am a front-end developer who has majored in computer science engineering with strong roots in CSS, HTML, JavaScript/TypeScript, and modern design tools and frameworks. I am a React, Next.js, and React Native developer. I have strong interpersonal and team-building abilities. I always create user-friendly and mobile-friendly responsive designs with the importance and growth of the mobile-oriented market in mind. My development skills are diverse, and I can design and develop web pages as well as handle mobile applications.
+I'm a software developer focused on frontend and mobile development, specializing in JavaScript/TypeScript, React, Next.js, and React Native. I create responsive, user-friendly interfaces with a strong eye for UI/UX and performance. Passionate about collaboration and problem-solving, I stay updated with the latest tech to build modern, impactful applications.
 
 
 ## Other 
