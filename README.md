@@ -40,7 +40,7 @@ Currently, I'm pursuing my Master’s degree, deepening my expertise in cutting-
 
 ### 🌐 Socials  
 
-<p align="left">
+<p align="left" style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
