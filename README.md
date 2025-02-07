@@ -63,11 +63,12 @@ Currently, I'm pursuing my Master’s degree, deepening my expertise in cutting-
 ### My GitHub Stats
 
 <p>
-  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=samin-taheri&show_icons=true&locale=en" alt="samin-taheri" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samin-taheri&show_icons=true&locale=en&layout=compact" alt="samin-taheri" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samin-taheri&show_icons=true&locale=en&layout=compact" alt="samin-taheri" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samin-taheri&show_icons=true&locale=en" alt="samin-taheri" />
 </p>
+
 
 
