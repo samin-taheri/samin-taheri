@@ -5,10 +5,10 @@
 
 
 ## 🚀 About Me
-I'm a software developer focused on frontend and mobile development, specializing in JavaScript/TypeScript, React, Next.js, and React Native. I create responsive, user-friendly interfaces with a strong eye for UI/UX and performance.
 
-Currently, I'm pursuing my Master’s degree, expanding my knowledge while staying up to date with the latest technologies. Passionate about collaboration and problem-solving, I strive to build modern, impactful applications that make a difference.
+I'm a software developer passionate about frontend and mobile development, with expertise in JavaScript/TypeScript, React, Next.js, and React Native. I specialize in building responsive, high-performance applications that prioritize seamless user experiences, accessibility, and modern UI/UX principles.
 
+Currently, I'm pursuing my Master’s degree, deepening my expertise in cutting-edge technologies and advanced software development practices. I thrive in collaborative environments, enjoy tackling complex challenges, and constantly seek ways to push the boundaries of innovation. My goal is to develop scalable, impactful solutions that enhance both user engagement and business efficienc
 
 
 
