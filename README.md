@@ -41,22 +41,23 @@ Currently, I'm pursuing my Master’s degree, deepening my expertise in cutting-
 ### 🌐 Socials  
 
 <p align="left" style="display: flex; align-items: center; gap: 15px;">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
   
-  <a href="https://discord.com/users/samin5601" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://discord.com/users/samin5601" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://skillicons.dev/icons?i=discord" width="32" height="32" alt="Discord" />
   </a>
 
-  <a href="https://www.youtube.com/@samintaheri2090" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://www.youtube.com/@samintaheri2090" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
   </a>
 
-  <a href="mailto:samin.taheri501@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="mailto:samin.taheri501@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" alt="Gmail" />
   </a>
 </p>
+
 
 
 
