@@ -5,7 +5,18 @@
 
 
 ## 🚀 About Me
-I'm a software developer focused on frontend and mobile development, specializing in JavaScript/TypeScript, React, Next.js, and React Native. I create responsive, user-friendly interfaces with a strong eye for UI/UX and performance. Passionate about collaboration and problem-solving, I stay updated with the latest tech to build modern, impactful applications.
+I'm a software developer focused on frontend and mobile development, specializing in JavaScript/TypeScript, React, Next.js, and React Native. I create responsive, user-friendly interfaces with a strong eye for UI/UX and performance.
+
+Currently, I'm pursuing my Master’s degree, expanding my knowledge while staying up to date with the latest technologies. Passionate about collaboration and problem-solving, I strive to build modern, impactful applications that make a difference.
+
+
+
+🌟 Fun Facts About Me
+🚀 Tech Explorer: I love experimenting with new frameworks and tools, always looking for ways to improve efficiency and performance.
+🎨 Design Enthusiast: UI/UX matters to me! I focus on creating visually appealing and intuitive designs.
+🏗️ Builder Mindset: I enjoy working on side projects that solve real-world problems and push my skills further.
+🌍 Lifelong Learner: Whether it's a new JavaScript framework or AI-enhanced development techniques, I'm always learning.
+🤝 Community-Driven: I enjoy collaborating with other developers and contributing to open-source projects.
 
 
 
@@ -66,10 +77,6 @@ I'm a software developer focused on frontend and mobile development, specializin
 
 
 ### My GitHub Stats
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=samin-taheri&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samin-taheri&show_icons=true&locale=en&layout=compact" alt="samin-taheri" />
