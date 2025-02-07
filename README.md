@@ -40,20 +40,20 @@ Currently, I'm pursuing my Master’s degree, deepening my expertise in cutting-
 
 ### 🌐 Socials  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+<p align="left" style="display: flex; align-items: center; gap: 15px;">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/samin5601" target="_blank">
+  
+  <a href="https://discord.com/users/samin5601" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=discord" width="32" height="32" alt="Discord" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@samintaheri2090" target="_blank">
+
+  <a href="https://www.youtube.com/@samintaheri2090" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:samin.taheri501@gmail.com" target="_blank">
+
+  <a href="mailto:samin.taheri501@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" alt="Gmail" />
   </a>
 </p>
