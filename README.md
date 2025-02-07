@@ -57,13 +57,12 @@ I'm a software developer focused on frontend and mobile development, specializin
     </picture>
   </a>
 
-  <a href="mailto:samintaheri19220001@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:samin.taheri501@gmail.com" target="_blank" rel="noreferrer">
     <picture>
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" height="32" />
     </picture>
   </a>
 </p>
-
 
 
 ### My GitHub Stats
