@@ -1,7 +1,5 @@
 
 # Hi, I'm Samin! 👋
-#### An enthusiastic software developer
-
 
 
 ## 🚀 About Me
