@@ -11,14 +11,6 @@ Currently, I'm pursuing my Master’s degree, expanding my knowledge while stayi
 
 
 
-🌟 Fun Facts About Me
-🚀 Tech Explorer: I love experimenting with new frameworks and tools, always looking for ways to improve efficiency and performance.
-🎨 Design Enthusiast: UI/UX matters to me! I focus on creating visually appealing and intuitive designs.
-🏗️ Builder Mindset: I enjoy working on side projects that solve real-world problems and push my skills further.
-🌍 Lifelong Learner: Whether it's a new JavaScript framework or AI-enhanced development techniques, I'm always learning.
-🤝 Community-Driven: I enjoy collaborating with other developers and contributing to open-source projects.
-
-
 
 ### 🛠 Languages and Tools
 
