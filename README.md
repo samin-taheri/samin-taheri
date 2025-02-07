@@ -8,10 +8,6 @@
 I'm a software developer focused on frontend and mobile development, specializing in JavaScript/TypeScript, React, Next.js, and React Native. I create responsive, user-friendly interfaces with a strong eye for UI/UX and performance. Passionate about collaboration and problem-solving, I stay updated with the latest tech to build modern, impactful applications.
 
 
-## Other 
-📫 How to reach me: samintaheri1922000@gmail.com
-
-
 
 ### 🛠 Languages and Tools
 
