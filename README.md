@@ -67,7 +67,15 @@ I'm a software developer focused on frontend and mobile development, specializin
 
 ### My GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samin-taheri&show_icons=true&locale=en&layout=compact" alt="samin-taheri" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=samin-taheri&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samin-taheri&show_icons=true&locale=en" alt="samin-taheri" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samin-taheri&show_icons=true&locale=en&layout=compact" alt="samin-taheri" />
+</p>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samin-taheri&show_icons=true&locale=en" alt="samin-taheri" />
+</p>
 
