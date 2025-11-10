@@ -2,7 +2,7 @@
 # Hi, I'm Samin! 👋
 
 
-### 🚀 About Me
+### About Me
 
 I'm a software developer passionate about frontend and mobile development, with expertise in JavaScript/TypeScript, React, Next.js, and React Native. I specialize in building responsive, high-performance applications that prioritize seamless user experiences, accessibility, and modern UI/UX principles.
 
