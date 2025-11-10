@@ -10,7 +10,7 @@ Currently, I'm pursuing my Master’s degree, deepening my expertise in cutting-
 
 
 
-### 🛠 Languages and Tools
+### Languages and Tools
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -36,7 +36,7 @@ Currently, I'm pursuing my Master’s degree, deepening my expertise in cutting-
 
 
 
-### 🌐 Socials  
+### Socials  
 
 <p align="left" style="display: flex; align-items: center; gap: 15px;">
   <a href="https://www.linkedin.com/in/samintaheri" target="_blank" rel="noreferrer" style="text-decoration: none;">
