@@ -33,8 +33,8 @@ Currently, I'm pursuing my Master’s degree, deepening my expertise in cutting-
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36"/>
 </p>
 
-### Socials  
 
+### Socials  
 <p align="left">
   <a href="https://www.linkedin.com/in/samintaheri">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/>
